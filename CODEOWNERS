@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @karuna-1
+/src/backend/database.py      @karuna-1
+/src/backend/routers/auth.py  @karuna-1
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @karuna-1
